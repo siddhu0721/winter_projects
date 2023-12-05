@@ -1,2 +1,2 @@
-# winter_projects
+# winter_projects_CP
 competitive programming problems
